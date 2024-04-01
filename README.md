@@ -25,6 +25,7 @@ checking for any divisors. If none are found, the number is considered prime. Ot
 
 ### Project 2: generates a unique and secure password 🔑
  <a href="https://github.com/Prabin1998/generates-a-unique-secure-password-.git">Secure Password Generater</a>
+ 
 This program creates a password by randomly selecting characters from lowercase letters,
 uppercase letters, digits, and special characters. 
 You can customize the length of the password by changing the password_length variable. 
