@@ -24,7 +24,7 @@ The IsPrime function iterates from 2 to the square root of the number,
 checking for any divisors. If none are found, the number is considered prime. Otherwise, it’s not. 🚀
 
 ### Project 2: generates a unique and secure password 🔑
-
+>>>> https://github.com/Prabin1998/generates-a-unique-secure-password-.git
 This program creates a password by randomly selecting characters from lowercase letters,
 uppercase letters, digits, and special characters. 
 You can customize the length of the password by changing the password_length variable. 
